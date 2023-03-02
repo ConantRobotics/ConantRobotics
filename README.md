@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+This is the GitHub page for Conant Robotics, a battlebots club based in Conant High School in Hoffman Estates, Illinois.
+
+This profile will primarily be used to host the Conant Robotics Wiki, but will most likely evolve and host other materials as well (maybe a website?).
